@@ -1,0 +1,6 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+746,0,1, Edward Gifford Crosby,male,70.0,1,1,WE/P 5735,71.0,B22,S
+541,1,1, Harriet R Crosby,female,36.0,0,2,WE/P 5735,71.0,B22,S
+298,0,1, Helen Loraine Allison,female,2.0,1,2,113781,151.55,C22 C26,S
+499,0,1, Hudson J C (Bessie Waldo Daniels) Allison,female,25.0,1,2,113781,151.55,C22 C26,S
+306,1,1, Hudson Trevor Allison,male,0.92,1,2,113781,151.55,C22 C26,S

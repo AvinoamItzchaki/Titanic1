@@ -1,0 +1,53 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+517,1,2, (Amelia Milley) Lemore,female,34.0,0,0,C.A. 34260,10.5,F33,S
+167,1,1, (Edith Martha Bowerman) Chibnall,female,0.0,0,1,113505,55.0,E33,S
+67,1,2, (Elizabeth Ramell) Nye,female,29.0,0,0,C.A. 29395,10.5,F33,S
+700,0,3, Adolf Mathias Nicolai Olsen Humblen,male,42.0,0,0,348121,7.65,F G63,S
+631,1,1, Algernon Henry Wilson Barkworth,male,80.0,0,0,27042,30.0,A23,S
+342,1,1, Alice Elizabeth Fortune,female,24.0,3,2,19950,263.0,C23 C25 C27,S
+346,1,2, Amelia ""Mildred"" Brown,female,24.0,0,0,248733,13.0,F33,S
+521,1,1, Anne Perreault,female,30.0,0,0,12749,93.5,B73,S
+537,0,1, Archibald Willingham Butt,male,45.0,0,0,113050,26.55,B38,S
+463,0,1, Arthur H Gee,male,47.0,0,0,111320,38.5,E63,S
+28,0,1, Charles Alexander Fortune,male,19.0,3,2,19950,263.0,C23 C25 C27,S
+749,0,1, Daniel Warner Marvin,male,19.0,1,0,113773,53.1,D30,S
+488,0,1, Edward Austin Kent,male,58.0,0,0,11771,29.7,B37,C
+780,1,1, Edward Scott (Elisabeth Walton McMillan) Robert,female,43.0,0,1,24160,211.3375,B3,S
+12,1,1, Elizabeth Bonnell,female,58.0,0,0,113783,26.55,C103,S
+357,1,1, Elsie Edith Bowerman,female,22.0,0,1,113505,55.0,E33,S
+312,1,1, Emily Borie Ryerson,female,18.0,2,2,PC 17608,262.375,B57 B59 B63 B66,C
+642,1,1, Emma Sagesser,female,24.0,0,0,PC 17477,69.3,B35,C
+55,0,1, Engelhart Cornelius Ostby,male,65.0,0,1,113509,61.9792,B30,C
+457,0,1, Francis Davis Millet,male,65.0,0,0,13509,26.55,E38,S
+367,1,1, Frank Manley (Anna Sophia Atkinson) Warren,female,60.0,1,0,110813,75.25,D37,C
+873,0,1, Frans Olof Carlsson,male,33.0,0,0,695,5.0,B51 B53 B55,S
+320,1,1, Frederic Oakley (Margaretta Corning Stone) Spedden,female,40.0,1,1,16966,134.5,E34,C
+487,1,1, Frederick Maxfield (Jane Anne Forby) Hoyt,female,35.0,1,0,19943,90.0,C93,S
+225,1,1, Frederick Maxfield Hoyt,male,38.0,1,0,19943,90.0,C93,S
+493,0,1, Harry Markland Molson,male,55.0,0,0,113787,30.5,C30,S
+540,1,1, Hedwig Margaritha Frolicher,female,22.0,0,2,13568,49.5,B39,C
+231,1,1, Henry Birkhardt (Irene Wallach) Harris,female,35.0,1,0,36973,83.475,C83,S
+63,0,1, Henry Birkhardt Harris,male,45.0,1,0,36973,83.475,C83,S
+210,1,1, Henry Blank,male,40.0,0,0,112277,31.0,A31,C
+53,1,1, Henry Sleeper (Myna Haxtun) Harper,female,49.0,1,0,PC 17572,76.7292,D33,C
+646,1,1, Henry Sleeper Harper,male,48.0,1,0,PC 17572,76.7292,D33,C
+93,0,1, Herbert Fuller Chaffee,male,46.0,1,0,W.E.P. 5734,61.175,E31,S
+186,0,1, Hugh Roscoe Rood,male,0.0,0,0,113767,50.0,A32,S
+4,1,1, Jacques Heath (Lily May Peel) Futrelle,female,35.0,1,0,113803,53.1,C123,S
+138,0,1, Jacques Heath Futrelle,male,37.0,1,0,113803,53.1,C123,S
+310,1,1, Laura Mabel Francatelli,female,30.0,0,0,PC 17485,56.9292,E36,C
+370,1,1, Leontine Pauline Aubart,female,24.0,0,0,PC 17477,69.3,B35,C
+89,1,1, Mabel Helen Fortune,female,23.0,3,2,19950,263.0,C23 C25 C27,S
+216,1,1, Madeleine Newell,female,31.0,1,0,35273,113.275,D36,C
+326,1,1, Marie Grice Young,female,36.0,0,0,PC 17760,135.6333,C32,C
+394,1,1, Marjorie Newell,female,23.0,1,0,35273,113.275,D36,C
+439,0,1, Mark Fortune,male,64.0,1,4,19950,263.0,C23 C25 C27,S
+716,0,3, Peter Andreas Lauritz Andersen Soholt,male,19.0,0,0,348124,7.65,F G73,S
+872,1,1, Richard Leonard (Sallie Monypeny) Beckwith,female,47.0,1,1,11751,52.5542,D35,S
+249,1,1, Richard Leonard Beckwith,male,37.0,1,1,11751,52.5542,D35,S
+777,0,3, Roger Tobin,male,0.0,0,0,383121,7.75,F38,Q
+76,0,3, Sigurd Hansen Moen,male,25.0,0,0,348123,7.65,F G73,S
+743,1,1, Susan Parker ""Suzette"" Ryerson,female,21.0,2,2,PC 17608,262.375,B57 B59 B63 B66,C
+680,1,1, Thomas Drake Martinez Cardeza,male,36.0,0,1,PC 17755,512.3292,B51 B53 B55,C
+807,0,1, Thomas Jr Andrews,male,39.0,0,0,112050,0.0,A36,S
+446,1,1, Washington Dodge,male,4.0,0,2,33638,81.8583,A34,S

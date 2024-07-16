@@ -1,0 +1,3 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+298,0,1, Helen Loraine Allison,female,2.0,1,2,113781,151.55,C22 C26,S
+306,1,1, Hudson Trevor Allison,male,0.92,1,2,113781,151.55,C22 C26,S
